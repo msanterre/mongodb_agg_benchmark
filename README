@@ -6,4 +6,4 @@ C++     : 2.0s (Lacks sub-second precision)
 Java    : 3.2s
 Go      : 21.4s
 Python  : 31.0s
-Ruby	  : 42.7s
+Ruby    : 42.7s
